@@ -1,16 +1,5 @@
-### Hi there 👋
 
-<!--
-**mehmeettoprakk/mehmeettoprakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Unity mechanics and web development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: mehmettoprak226@gmail.com
 - 😄 For My First Game: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white(https://toprak-mehmeet.itch.io)
-- ⚡ Fun fact: ...
--->
+-
