@@ -1,8 +1,8 @@
 <h1 aling="center"> Mehmet Toprak</h1>
 <h3 align="center"> I'm interested in Game Development </h3>
-- I'm currently learning Unity mechanics.
-- How to reach me **mehmettoprak226@gmail.com**
-- For my first game [https://toprak-mehmeet.itch.io](https://toprak-mehmeet.itch.io)
+- I'm currently learning Unity mechanics. <br> 
+- How to reach me **mehmettoprak226@gmail.com** <br>                                                           
+- For my first game [https://toprak-mehmeet.itch.io](https://toprak-mehmeet.itch.io) <br>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
