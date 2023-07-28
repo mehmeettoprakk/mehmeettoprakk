@@ -1,5 +1,5 @@
 <h1 aling="center"> Mehmet Toprak</h1>
-<h4 align="center"> I was interested in Game Development</h4>
+<h4> I was interested in Game Development</h4>
 <h2 align="center"> - I'm currently learning HTML&CSS.</h2>
 
 
