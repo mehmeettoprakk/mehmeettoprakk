@@ -1,4 +1,4 @@
-![Views]![](https://komarev.com/ghpvc/?username=your-github-mehmeettoprakk&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-mehmeettoprakk&label=PROFILE+VIEWS)
 <h1 aling="center"> Mehmet Toprak</h1>
 <h4> I was interested in Game Development</h4>
 <h2 align="center"> - I'm currently learning HTML&CSS.</h2>
