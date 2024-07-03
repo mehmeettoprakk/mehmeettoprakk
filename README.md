@@ -1,3 +1,4 @@
+![Views](https://komarev.com/ghpvc/?username-github-mehmeettoprakk)
 <h1 aling="center"> Mehmet Toprak</h1>
 <h4> I was interested in Game Development</h4>
 <h2 align="center"> - I'm currently learning HTML&CSS.</h2>
