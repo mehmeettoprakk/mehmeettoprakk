@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Web Developer | 🎯 JavaScript Enthusiast | ⚛️ React Addict</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines="Passionate+about+building+the+web.;Always+learning+new+technologies.;Let's+create+something+great+!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines= Passionate+about+building+the+web.;Always+learning+new+technologies.;Let's+create+something+great+!+" alt="Typing SVG" />
 </p>
 
 ---
