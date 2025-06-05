@@ -14,7 +14,7 @@
 - ⚛️ Deep diving into **React.js**, **Node.js**, and everything JavaScript.
 - 🧠 Constant learner, always leveling up.
 - ✉️ Reach me anytime: **mehmettoprak226@gmail.com**
-- 🕹️ My very first game project → [itch.io Profile](https://toprak-mehmeet.itch.io)
+- 🕹️ My first game project → [itch.io Profile](https://toprak-mehmeet.itch.io)
 
 ---
 
